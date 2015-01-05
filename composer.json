@@ -1,0 +1,11 @@
+{
+  "name": "etdsolutions/mdetect",
+  "description": "Shim repository for MobileESP mdetect",
+  "homepage": "http://www.mobileesp.com/",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Anthony Hand"
+    }
+  ]
+}
